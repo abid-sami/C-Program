@@ -1,4 +1,4 @@
-//Swap Numbers
+//Swap two Numbers
 #include<stdio.h>
 int swap(int a, int b) {
     int temp;
